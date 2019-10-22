@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+MeMusic - A Music Platform for Listeners around the world. Users will have access to Search Artist, Comment, Like and Listen to Spotify's top playlists.
 ### Features
-Include Features here
+Users will have access to Search Artist, Users will be able Comment, Like and Listen to Spotify's top playlists.
 ### Technologies
-Include Technologies here
+React.js and Java Springboot
 ### What I'll Have to Learn
-Include what you will need to learn here
+how to program a front end interface that will allow users to access spotifys top playlists, Comment Box Functionality which means i would have to use a database and Search Artist.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/wJtHN2Kz/memusic-listen-to-your-favorite-playlists
