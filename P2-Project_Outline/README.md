@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-MeMusic - A Music Platform for Listeners around the world. Users will have access to Search Artist, Comment, Like and Listen to Spotify's top playlists.
+Cyber Bar's Ticket Management Software App
+- This is a Cell Phone Repair Ticket Management Software that allow repair technicians to keep track of all repair tickets. 
+- repair technicians can find this useful beacuse it allows them to create user accounts, add pre and post-repair comments and diagnostic notes.
+-This idea came from My self working as a cell phone repair technician.
 ### Features
-Users will have access to Search Artist, Users will be able Comment, Like and Listen to Spotify's top playlists.
+- User login: Users will be able to create accounts and log in to the application which routes them to the ticket dashboard. Each user will have a profile page that has access to modify all tickets 
+- Create Ticket: Users will be able to create new ticket posts when logged in. New posts will appear on the main dashboard.
+-Delete Ticket: Users will be able to delete ticket upon tasks completion.
 ### Technologies
-React.js and Java Springboot
+  -Html5
+  -Css3
+  -JavaScript
+  -MySql
 ### What I'll Have to Learn
-how to program a front end interface that will allow users to access spotifys top playlists, Comment Box Functionality which means i would have to use a database and Search Artist.
+-I will have to learn how to create a page that shows finished tickets only for the customer to see 
 ### Project Tracker
-https://trello.com/b/wJtHN2Kz/memusic-listen-to-your-favorite-playlists
+ https://trello.com/b/ODpcY7t4/cyber-bar-cellphone-repair-ticketing-system
