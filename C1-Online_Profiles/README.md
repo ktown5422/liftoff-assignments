@@ -8,11 +8,11 @@ For this assignment you will need to upload your resume and provide links to you
  
 ### GitHub
 Provide a link to your GitHub account here.
-[My Github](https://github.com/ktown5422)
+[Kevins Github](https://github.com/ktown5422)
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
-[My LinkedIn](https://www.linkedin.com/in/kevin-townson/)
+[Kevins LinkedIn](https://www.linkedin.com/in/kevin-townson/)
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
