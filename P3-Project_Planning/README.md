@@ -16,8 +16,8 @@ Include at least 3 wireframes here, adding images or files to your repository as
 
 ### Project Tracker
 
-https://trello.com/b/wJtHN2Kz/memusic-listen-to-your-favorite-playlists
+https://trello.com/b/ODpcY7t4/cyber-bar-cellphone-repair-ticketing-system
 
 ### Project Repo Link
 
-https://github.com/ktown5422/MeMusic-React3
+https://github.com/ktown5422/cellphonerepair-ticket-system
