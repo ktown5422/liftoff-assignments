@@ -7,4 +7,4 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-[MeMusic](https://github.com/ktown5422/cellphonerepair-ticket-system) 
+[Cell Phone Repair Ticket System Software](https://github.com/ktown5422/cellphonerepair-ticket-system) 
